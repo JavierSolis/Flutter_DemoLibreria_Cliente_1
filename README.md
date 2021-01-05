@@ -17,4 +17,4 @@ Cliente 1, es el proyecto que se creo por defecto, donde se usa la librería "li
 
 <br>
 
-<img src="https://github.com/JavierSolis/Flutter_DemoLibreria_Cliente_1/raw/main/readme/image/demo.gif" width="370"  /># Flutter_DemoLibreria_Cliente_1
+<img src="https://github.com/JavierSolis/Flutter_DemoLibreria_Cliente_1/raw/main/readme/image/demo.gif" width="370"  />
